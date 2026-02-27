@@ -1,0 +1,136 @@
+{
+  "version": 1,
+  "base_track": "Better",
+  "base_artist": "Khalid",
+  "createdAt": "2026-02-27T06:07:36.771834Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Should Have Known Better",
+      "artist": "Jessie James Decker",
+      "has_synced": true,
+      "path": "select/01_Should_Have_Known_Better_Jessie_James_Decker.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Should Have Known Better",
+      "artist": "Jessie James Decker",
+      "has_synced": true,
+      "path": "select/02_Should_Have_Known_Better_Jessie_James_Decker.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Should’ve Known Better",
+      "artist": "Carly Pearce",
+      "has_synced": true,
+      "path": "select/03_Should’ve_Known_Better_Carly_Pearce.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Should’ve Known Better",
+      "artist": "Carly Pearce",
+      "has_synced": true,
+      "path": "select/04_Should’ve_Known_Better_Carly_Pearce.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Better If You Don't",
+      "artist": "CHVRCHES",
+      "has_synced": true,
+      "path": "select/05_Better_If_You_Don't_CHVRCHES.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "A Better Man",
+      "artist": "Clint Black",
+      "has_synced": false,
+      "path": "select/06_A_Better_Man_Clint_Black.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "A Better Man",
+      "artist": "Clint Black",
+      "has_synced": true,
+      "path": "select/07_A_Better_Man_Clint_Black.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Beer Taste Better",
+      "artist": "Blaine Holcomb",
+      "has_synced": true,
+      "path": "select/08_Beer_Taste_Better_Blaine_Holcomb.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Beer Tastes Better",
+      "artist": "Hailey Whitters",
+      "has_synced": true,
+      "path": "select/09_Beer_Tastes_Better_Hailey_Whitters.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Better As A Memory",
+      "artist": "Kenny Chesney",
+      "has_synced": true,
+      "path": "select/10_Better_As_A_Memory_Kenny_Chesney.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Better Class of Losers",
+      "artist": "Randy Travis",
+      "has_synced": true,
+      "path": "select/11_Better_Class_of_Losers_Randy_Travis.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Better Class of Losers (Album Version)",
+      "artist": "Randy Travis",
+      "has_synced": false,
+      "path": "select/12_Better_Class_of_Losers_(Album_Version)_Randy_Travis.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Better Life",
+      "artist": "Keith Urban",
+      "has_synced": true,
+      "path": "select/13_Better_Life_Keith_Urban.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Better Love",
+      "artist": "Little Big Town",
+      "has_synced": true,
+      "path": "select/14_Better_Love_Little_Big_Town.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Better Luck Next Time",
+      "artist": "Kelsea Ballerini",
+      "has_synced": true,
+      "path": "select/15_Better_Luck_Next_Time_Kelsea_Ballerini.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Better",
+      "artist": "Khalid",
+      "has_synced": false,
+      "path": "select/pl_01_Better_Khalid.txt"
+    }
+  ]
+}
